@@ -1,2 +1,4 @@
 # ChickenAtTheZoo_Remake
-2017, Origin Project / 2019, Remaster Project / 2023, Remake Project
+2017, Origin Project : https://github.com/DaLae37/ChickenAtTheZoo
+2019, Remaster Project : https://github.com/DaLae37/ChickenAtTheZoo_Remaster
+2023, Remake Project : https://github.com/DaLae37/ChickenAtTheZoo_Remake
